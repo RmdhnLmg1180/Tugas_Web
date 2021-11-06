@@ -25,6 +25,14 @@ body {
     margin-left: 28px;
   }
   table, th {
-    color: darkorange!important;
+    border-collapse: collapse;
+    color: yellow!important;
     border: 2px solid rgb(255, 230, 0);
+    background-color: darkred;
+  }
+  ol {
+    color: rgb(255, 230, 0);
+    font-family: 'Times New Roman';
+    text-align: justify;
+    margin-left: 58px;
   }
